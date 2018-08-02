@@ -9,12 +9,13 @@
 [###](#/outline "secret")
 
 ---
-| 1. **What** must I change? [(identity)](# "ref") | The Adopted *Princess* [(ch16)](# "ref") |
+
+| 1. What must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
-| 2. **Who** will help me? [(leadership)](# "ref") | The *Shepherds* [(ch34)](# "ref") |
-| 3. **How** do I change? <br>[(God's work)](# "ref") | The *Wanderers* [(ch36)](# "ref") |
-| 4. Am I beyond **hope**? [(new life)](# "ref") | The *Dry Bones* [(ch37)](# "ref") |
-| 5. What if **others** won't change? [(missions)](# "ref") | The *Watchman* [(ch33)](# "ref") |
+| 2. Who will help me? | <small>[ch34:](# "ref") *Shepherds* [(leadership)](# "ref")</small> |
+| 3. How do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
+| 4. **Am I beyond hope?** | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
+| 5. If others won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -24,18 +25,117 @@
 3. The **Breath** of Life [(v9-10,14)](# "ref")
 
 ---
+He brought me out in the **Spirit** and <br>
+set me down in the middle of the **valley**;<br>
+it was full of **bones**.
+
+[2](# "ref")
+... and behold, they were very **dry**.
+
+[Ezekiel 37:1-2 (ESV)](# "ref")
+
+---
+And he said to me, <br>
+“Son of man, can these bones **live**?”
+
+And I answered, <br>
+“O Lord God, **you** know.”
+
+[Ezekiel 37:3 (ESV)](# "ref")
+
+---
+These bones are the whole house of **Israel**. <br>
+Behold, they say, <br>
+‘Our bones are **dried up**, and our **hope** is lost;<br>
+we are indeed **cut off**.’
+
+[Ezekiel 37:11 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # Q1
 
 ---
-# outline 2
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Dry Bones [(Ez37)](# "ref")
+1. When Hope Has Perished [(v1-3,11)](# "ref")
+2. **Coming Out of the Grave** [(v4-8,12-13)](# "ref")
+3. The Breath of Life [(v9-10,14)](# "ref")
+
+---
+“Behold, I will cause **breath** to enter you,<br>
+and you shall **live**.
+
+[6](# "ref")
+And I will lay **sinews** upon you, <br>
+and will cause **flesh** to come upon you, <br>
+and cover you with **skin**,
+
+and put **breath** in you, and you shall **live**, <br>
+and you shall **know** that I am the Lord.”
+
+[Ezekiel 37:5-6 (ESV)](# "ref")
+
+---
+And as I prophesied, there was a **sound**, <br>
+and behold, a **rattling**, <br>
+and the bones came **together**, bone to its bone.
+
+[8](# "ref")
+And I looked, and behold, <br>
+there were **sinews** on them, <br>
+and **flesh** had come upon them, <br>
+and **skin** had covered them.
+
+But there was **no breath** in them.
+
+[Ezekiel 37:7-8 (ESV)](# "ref")
+
+---
+Behold, I will open your **graves** <br>
+and **raise** you from your graves, O my people. <br>
+And I will bring you into the **land** of Israel.
+
+[13](# "ref")
+And you shall **know** that I am the Lord, <br>
+when I open your graves, <br>
+and raise you from your graves, O my people.
+
+[Ezekiel 37:12-13 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
 # Q2
 
 ---
-# outline 3
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Dry Bones [(Ez37)](# "ref")
+1. When Hope Has Perished [(v1-3,11)](# "ref")
+2. Coming Out of the Grave [(v4-8,12-13)](# "ref")
+3. **The Breath of Life** [(v9-10,14)](# "ref")
+
+---
+“Come from the four winds, **O breath**, <br>
+and breathe on these slain, that they may **live**.”
+
+[10](# "ref")
+So I **prophesied** as he commanded me,<br>
+and the **breath** came into them, <br>
+and they **lived** and stood on their feet, <br>
+an exceedingly great **army**.
+
+[Ezekiel 37:9-10 (ESV)](# "ref")
+
+---
+And I will put my **Spirit** within you, <br>
+and you shall **live**, <br>
+and I will place you in your own **land**.
+
+Then you shall **know** that I am the Lord; <br>
+I have **spoken**, and I will **do** it, <br>
+declares the Lord.”
+
+[Ezekiel 37:14 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
