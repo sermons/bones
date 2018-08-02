@@ -24,5 +24,23 @@
 3. The **Breath** of Life [(v9-10,14)](# "ref")
 
 ---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+# outline 2
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+# outline 3
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
