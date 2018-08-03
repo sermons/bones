@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Is change beyond **hope**?
+# Am I beyond **hope** to change?
 
 [###](#/outline "secret")
 
@@ -35,6 +35,18 @@ it was full of **bones**.
 [Ezekiel 37:1-2 (ESV)](# "ref")
 
 ---
+These bones are the whole house of **Israel**. <br>
+Behold, they say, <br>
+‘Our bones are **dried up**, and our **hope** is lost;<br>
+we are indeed **cut off**.’
+
+[Ezekiel 37:11 (ESV)](# "ref")
+
+>>>
++ "dried": no **water**, no life
++ "cut off":
+
+---
 And he said to me, <br>
 “Son of man, can these bones **live**?”
 
@@ -44,16 +56,11 @@ And I answered, <br>
 [Ezekiel 37:3 (ESV)](# "ref")
 
 ---
-These bones are the whole house of **Israel**. <br>
-Behold, they say, <br>
-‘Our bones are **dried up**, and our **hope** is lost;<br>
-we are indeed **cut off**.’
-
-[Ezekiel 37:11 (ESV)](# "ref")
-
----
 <!-- .slide: data-background="white" -->
-# Q1
+# How do I **cope** with a **hopeless** situation?
+
+>>>
++ "Oh Lord, You know"
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -74,7 +81,7 @@ and cover you with **skin**,
 and put **breath** in you, and you shall **live**, <br>
 and you shall **know** that I am the Lord.”
 
-[Ezekiel 37:5-6 (ESV)](# "ref")
+[Ezekiel 37:5-6 (ESV) (p.1/2)](# "ref")
 
 ---
 And as I prophesied, there was a **sound**, <br>
@@ -89,7 +96,7 @@ and **skin** had covered them.
 
 But there was **no breath** in them.
 
-[Ezekiel 37:7-8 (ESV)](# "ref")
+[Ezekiel 37:7-8 (ESV) (p.2/2)](# "ref")
 
 ---
 Behold, I will open your **graves** <br>
@@ -104,8 +111,24 @@ and raise you from your graves, O my people.
 [Ezekiel 37:12-13 (ESV)](# "ref")
 
 ---
+But you are a **chosen** race, a **royal** priesthood,<br>
+a **holy** nation, a people for his **own** possession,
+
+that you may **proclaim** the excellencies of him<br>
+who called you **out of darkness**<br>
+into his **marvelous light**.
+
+[2 Peter 2:9-10 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
-# Q2
+# What **grave** am I stuck in?
+
+>>>
++ **habitual** sins
+  + secret **shame**
++ called out of **darkness**
+  + into His marvelous **light**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -113,6 +136,11 @@ and raise you from your graves, O my people.
 1. When Hope Has Perished [(v1-3,11)](# "ref")
 2. Coming Out of the Grave [(v4-8,12-13)](# "ref")
 3. **The Breath of Life** [(v9-10,14)](# "ref")
+
+---
+But there was **no breath** in them.
+
+[Ezekiel 37:8b (ESV)](# "ref")
 
 ---
 “Come from the four winds, **O breath**, <br>
@@ -125,6 +153,34 @@ and they **lived** and stood on their feet, <br>
 an exceedingly great **army**.
 
 [Ezekiel 37:9-10 (ESV)](# "ref")
+
+>>>
++ not enough to be **saved**
++ **breath**: new **life**
+
+---
+When an **unclean spirit** <br>
+has gone **out** of a person, <br>
+it passes through **waterless** places seeking rest,
+
+and finding **none** it says, <br>
+‘I will **return** to my house from which I came.’
+
+[25](# "ref")
+And when it comes, <br>
+it finds the house **swept** and put in **order**.
+
+[Luke 11:24-25 (ESV) (p.1/2)](# "ref")
+
+---
+Then it goes and brings  <br>
+**seven** other spirits **more** evil than itself,  <br>
+and they enter and **dwell** there.
+
+And the **last** state of that person <br>
+is **worse** than the first.
+
+[Luke 11:26 (ESV) (p.2/2)](# "ref")
 
 ---
 And I will put my **Spirit** within you, <br>
