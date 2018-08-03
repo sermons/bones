@@ -172,6 +172,10 @@ it finds the house **swept** and put in **order**.
 
 [Luke 11:24-25 (ESV) (p.1/2)](# "ref")
 
+>>>
++ (TODO: skip this, focus on new life?)
++ 2Cor4:6 For God, who said, “Let **light** shine out of darkness,” has **shone** in our hearts to give the **light** of the knowledge of the **glory** of God in the face of Jesus Christ.
+
 ---
 Then it goes and brings  <br>
 **seven** other spirits **more** evil than itself,  <br>
