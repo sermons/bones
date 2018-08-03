@@ -195,7 +195,7 @@ declares the Lord.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Is Jesus only my **Saviour**, or also my **Lord**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
