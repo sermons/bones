@@ -111,14 +111,18 @@ and raise you from your graves, O my people.
 [Ezekiel 37:12-13 (ESV)](# "ref")
 
 ---
-But you are a **chosen** race, a **royal** priesthood,<br>
-a **holy** nation, a people for his **own** possession,
+An hour is coming when all who are <br>
+in the **tombs** will hear his **voice** <br>
+[29](# "ref")
+and come out, 
 
-that you may **proclaim** the excellencies of him<br>
-who called you **out of darkness**<br>
-into his **marvelous light**.
+those who have done **good** <br>
+to the resurrection of **life**, 
 
-[2 Peter 2:9-10 (ESV)](# "ref")
+and those who have done **evil** <br>
+to the resurrection of **judgment**.
+
+[John 5:28-29](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -196,6 +200,16 @@ I have **spoken**, and I will **do** it, <br>
 declares the Lord.”
 
 [Ezekiel 37:14 (ESV)](# "ref")
+
+---
+But you are a **chosen** race, a **royal** priesthood,<br>
+a **holy** nation, a people for his **own** possession,
+
+that you may **proclaim** the excellencies of him<br>
+who called you **out of darkness**<br>
+into his **marvelous light**.
+
+[2 Peter 2:9-10 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
