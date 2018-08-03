@@ -155,7 +155,7 @@ an exceedingly great **army**.
 [Ezekiel 37:9-10 (ESV)](# "ref")
 
 >>>
-+ not enough to be **saved**
++ not enough to be **rescued**
 + **breath**: new **life**
 
 ---
