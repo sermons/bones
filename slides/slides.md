@@ -41,14 +41,14 @@ it was full of **bones**.
 [Kota Garut, Indonesia. Dikaseva](https://unsplash.com/photos/zvf7cZ0PC20 "caption")
 
 ---
-<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
 These bones are the whole house of **Israel**. <br>
 Behold, they say, <br>
 ‘Our bones are **dried up**, and our **hope** is lost;<br>
 we are indeed **cut off**.’
 
 [Ezekiel 37:11 (ESV)](# "ref")
-[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
+[Dominik Martin](https://unsplash.com/photos/YuVzPOBuuf0 "caption")
 
 >>>
 + "dried": no **water**, no life
@@ -80,7 +80,7 @@ And I answered, <br>
 3. The Breath of Life [(v9-10,14)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-pLJ97CLuYcU-hand.jpg") %> -->
+<!-- .slide: <%= bg("orig/unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 <!-- unsplash-rdwkamJlpiU-mist-mtns.jpg [Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption") -->
 
 “Behold, I will cause **breath** to enter you,<br>
@@ -95,10 +95,10 @@ and put **breath** in you, and you shall **live**, <br>
 and you shall **know** that I am the Lord.”
 
 [Ezekiel 37:5-6 (ESV) (p.1/2)](# "ref")
-[Oslo, Norway. Akira Hojo](https://unsplash.com/photos/pLJ97CLuYcU "caption")
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 ---
-<!-- .slide: <%= bg("unsplash-pLJ97CLuYcU-hand.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 And as I prophesied, there was a **sound**, <br>
 and behold, a **rattling**, <br>
 and the bones came **together**, bone to its bone.
@@ -114,6 +114,7 @@ But there was **no breath** in them.
 [Ezekiel 37:7-8 (ESV) (p.2/2)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Behold, I will open your **graves** <br>
 and **raise** you from your graves, O my people. <br>
 And I will bring you into the **land** of Israel.
@@ -124,8 +125,10 @@ when I open your graves, <br>
 and raise you from your graves, O my people.
 
 [Ezekiel 37:12-13 (ESV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> -->
 An hour is coming when all who are <br>
 in the **tombs** will hear his **voice** <br>
 [29](# "ref")
@@ -138,6 +141,7 @@ and those who have done **evil** <br>
 to the resurrection of **judgment**.
 
 [John 5:28-29](# "ref")
+[Neil Thomas](https://unsplash.com/photos/bSYRuzEaT5k "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -157,11 +161,13 @@ to the resurrection of **judgment**.
 3. **The Breath of Life** [(v9-10,14)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 But there was **no breath** in them.
 
 [Ezekiel 37:8b (ESV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-Y1BdWi52y14-israeli_soldiers.jpg") %> -->
 “Come from the four winds, **O breath**, <br>
 and breathe on these slain, that they may **live**.”
 
@@ -172,12 +178,14 @@ and they **lived** and stood on their feet, <br>
 an exceedingly great **army**.
 
 [Ezekiel 37:9-10 (ESV)](# "ref")
+[Western Wall, Jerusalem. Toa Heftiba](https://unsplash.com/photos/Y1BdWi52y14 "caption")
 
 >>>
 + not enough to be **rescued**
 + **breath**: new **life**
 
 ---
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 When an **unclean spirit** <br>
 has gone **out** of a person, <br>
 it passes through **waterless** places seeking rest,
@@ -190,12 +198,14 @@ And when it comes, <br>
 it finds the house **swept** and put in **order**.
 
 [Luke 11:24-25 (ESV) (p.1/2)](# "ref")
+[Hirzel, Switzerland. Ricardo Gomez Angel](https://unsplash.com/photos/iTwmi4p4Q_c "caption")
 
 >>>
 + (TODO: skip this, focus on new life?)
 + 2Cor4:6 For God, who said, “Let **light** shine out of darkness,” has **shone** in our hearts to give the **light** of the knowledge of the **glory** of God in the face of Jesus Christ.
 
 ---
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 Then it goes and brings  <br>
 **seven** other spirits **more** evil than itself,  <br>
 and they enter and **dwell** there.
@@ -206,6 +216,7 @@ is **worse** than the first.
 [Luke 11:26 (ESV) (p.2/2)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 And I will put my **Spirit** within you, <br>
 and you shall **live**, <br>
 and I will place you in your own **land**.
@@ -215,8 +226,10 @@ I have **spoken**, and I will **do** it, <br>
 declares the Lord.”
 
 [Ezekiel 37:14 (ESV)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 But you are a **chosen** race, a **royal** priesthood,<br>
 a **holy** nation, a people for his **own** possession,
 
@@ -225,6 +238,7 @@ who called you **out of darkness**<br>
 into his **marvelous light**.
 
 [2 Peter 2:9-10 (ESV)](# "ref")
+[Chuckanut Mountain, US.  Patrick Fore](https://unsplash.com/photos/74TufExdP3Y "caption")
 
 ---
 <!-- .slide: data-background="white" -->
