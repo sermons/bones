@@ -29,6 +29,7 @@
 3. The **Breath** of Life [(v9-10,14)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-zvf7cZ0PC20-bare_trees.jpg") %> -->
 He brought me out in the **Spirit** and <br>
 set me down in the middle of the **valley**;<br>
 it was full of **bones**.
@@ -37,20 +38,24 @@ it was full of **bones**.
 ... and behold, they were very **dry**.
 
 [Ezekiel 37:1-2 (ESV)](# "ref")
+[Kota Garut, Indonesia. Dikaseva](https://unsplash.com/photos/zvf7cZ0PC20 "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 These bones are the whole house of **Israel**. <br>
 Behold, they say, <br>
 ‘Our bones are **dried up**, and our **hope** is lost;<br>
 we are indeed **cut off**.’
 
 [Ezekiel 37:11 (ESV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 >>>
 + "dried": no **water**, no life
 + "cut off":
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 And he said to me, <br>
 “Son of man, can these bones **live**?”
 
@@ -58,6 +63,7 @@ And I answered, <br>
 “O Lord God, **you** know.”
 
 [Ezekiel 37:3 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -74,6 +80,9 @@ And I answered, <br>
 3. The Breath of Life [(v9-10,14)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-pLJ97CLuYcU-hand.jpg") %> -->
+<!-- unsplash-rdwkamJlpiU-mist-mtns.jpg [Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption") -->
+
 “Behold, I will cause **breath** to enter you,<br>
 and you shall **live**.
 
@@ -86,8 +95,10 @@ and put **breath** in you, and you shall **live**, <br>
 and you shall **know** that I am the Lord.”
 
 [Ezekiel 37:5-6 (ESV) (p.1/2)](# "ref")
+[Oslo, Norway. Akira Hojo](https://unsplash.com/photos/pLJ97CLuYcU "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-pLJ97CLuYcU-hand.jpg") %> -->
 And as I prophesied, there was a **sound**, <br>
 and behold, a **rattling**, <br>
 and the bones came **together**, bone to its bone.
@@ -121,7 +132,7 @@ in the **tombs** will hear his **voice** <br>
 and come out, 
 
 those who have done **good** <br>
-to the resurrection of **life**, 
+to the resurrection of **life**,
 
 and those who have done **evil** <br>
 to the resurrection of **judgment**.
