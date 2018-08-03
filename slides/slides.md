@@ -67,7 +67,7 @@ And I answered, <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **cope** with a **hopeless** situation?
+# How do I **cope** <br>with a **hopeless** situation?
 
 >>>
 + "Oh Lord, You know"
@@ -80,13 +80,17 @@ And I answered, <br>
 3. The Breath of Life [(v9-10,14)](# "ref")
 
 ---
-<!-- .slide: <%= bg("orig/unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 <!-- unsplash-rdwkamJlpiU-mist-mtns.jpg [Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption") -->
 
 “Behold, I will cause **breath** to enter you,<br>
 and you shall **live**.
 
-[6](# "ref")
+[Ezekiel 37:5 (ESV) (p.1/3)](# "ref")
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 And I will lay **sinews** upon you, <br>
 and will cause **flesh** to come upon you, <br>
 and cover you with **skin**,
@@ -94,8 +98,7 @@ and cover you with **skin**,
 and put **breath** in you, and you shall **live**, <br>
 and you shall **know** that I am the Lord.”
 
-[Ezekiel 37:5-6 (ESV) (p.1/2)](# "ref")
-[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+[Ezekiel 37:6 (ESV) (p.2/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -109,9 +112,7 @@ there were **sinews** on them, <br>
 and **flesh** had come upon them, <br>
 and **skin** had covered them.
 
-But there was **no breath** in them.
-
-[Ezekiel 37:7-8 (ESV) (p.2/2)](# "ref")
+[Ezekiel 37:7-8 (ESV) (p.3/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
