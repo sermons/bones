@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> id="title" -->
 # The Dry Bones
 ## Ezekiel 37:1-14 (4/5)
+[Brad Helmink](https://unsplash.com/photos/8EFA86nI6yg "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -9,6 +10,7 @@
 [###](#/outline "secret")
 
 ---
+<!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
 
 | 1. What must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
@@ -17,8 +19,10 @@
 | 4. **Am I beyond hope?** | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
 | 5. If others won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
 
+[Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
+
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> id="outline" class="outline" -->
 ## The Dry Bones [(Ez37)](# "ref")
 1. When **Hope** Has Perished [(v1-3,11)](# "ref")
 2. Coming Out of the **Grave** [(v4-8,12-13)](# "ref")
@@ -63,7 +67,7 @@ And I answered, <br>
 + "Oh Lord, You know"
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> class="outline" -->
 ## The Dry Bones [(Ez37)](# "ref")
 1. When Hope Has Perished [(v1-3,11)](# "ref")
 2. **Coming Out of the Grave** [(v4-8,12-13)](# "ref")
@@ -131,7 +135,7 @@ into his **marvelous light**.
   + into His marvelous **light**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> class="outline" -->
 ## The Dry Bones [(Ez37)](# "ref")
 1. When Hope Has Perished [(v1-3,11)](# "ref")
 2. Coming Out of the Grave [(v4-8,12-13)](# "ref")
@@ -202,5 +206,5 @@ declares the Lord.”
 # Is Jesus only my **Saviour**, or also my **Lord**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> class="empty" -->
 
