@@ -279,6 +279,11 @@ in the face of Jesus Christ.
 
 >>>
 + authority as **Creator**
++ **light** reveals God's **glory**:
+  + and our **unworthiness**
++ e.g. dim restaurant vs **searchlight**
++ **knowing**: experiential, not theoretical
+  + through **Jesus**: God revealed
 + power to **change** us:
   + **heart** &rArr; values / priorities
   + &rArr; actions &rArr; **habits**
