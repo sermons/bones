@@ -5,9 +5,18 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I beyond **hope** to change?
+# What happens when all **hope** has gone?
 
 [###](#/outline "secret")
+
+>>>
++ sometimes it has been too **long**
+  + I'm **set** in my ways
++ the **hurt** is too severe
+  + I can't **forgive**
++ I've **invested** too much in my dreams
+  + I can't yield **control**
++ when all **hope** of change is lost? 
 
 ---
 <!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
@@ -21,12 +30,29 @@
 
 [Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
+>>>
++ orphan &rArr; **princess** 
+  + &rArr; harlot &rArr; betrothed
++ as **shepherds** derelict in duty
+  + as **sheep** disappointed
+  + as **strong** sheep pushing weak
+  + remember our **Good Shepherd**
++ **heals** us of our idols (if we let Him)
+  + new **heart**, His Spirit dwell
+  + so we may be **humble**
+  + godly **grief** &rArr; repentance
++ when **hope** has perished
+
 ---
 <!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> id="outline" class="outline" -->
 ## The Dry Bones [(Ez37)](# "ref")
 1. When **Hope** Has Perished [(v1-3,11)](# "ref")
 2. Coming Out of the **Grave** [(v4-8,12-13)](# "ref")
 3. The **Breath** of Life [(v9-10,14)](# "ref")
+
+>>>
++ Creator can do the **impossible**
++ 
 
 ---
 <!-- .slide: <%= bg("unsplash-zvf7cZ0PC20-bare_trees.jpg") %> -->
@@ -210,8 +236,6 @@ it finds the house **swept** and put in **order**.
 [Hirzel, Switzerland. Ricardo Gomez Angel](https://unsplash.com/photos/iTwmi4p4Q_c "caption")
 
 >>>
-+ (TODO: skip this, focus on new life?)
-+ 2Cor4:6 For God, who said, “Let **light** shine out of darkness,” has **shone** in our hearts to give the **light** of the knowledge of the **glory** of God in the face of Jesus Christ.
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
@@ -237,6 +261,28 @@ declares the Lord.”
 [Ezekiel 37:14 (ESV)](# "ref")
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
+>>>
++ firm **assurance** God's promise
++ ch37b: **reconcile** Israel+Judah
+  + vertical &rArr; **horizontal**
+
+---
+For God, who said, <br>
+“Let **light** shine out of darkness,”
+
+has **shone** in our hearts <br>
+to give the **light** of the knowledge <br>
+of the **glory** of God <br>
+in the face of Jesus Christ.
+
+[2 Corinthians 4:6 (ESV)](# "ref")
+
+>>>
++ authority as **Creator**
++ power to **change** us:
+  + **heart** &rArr; values / priorities
+  + &rArr; actions &rArr; **habits**
+
 ---
 <!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 But you are a **chosen** race, a **royal** priesthood,<br>
@@ -249,9 +295,22 @@ into his **marvelous light**.
 [2 Peter 2:9-10 (ESV)](# "ref")
 [Chuckanut Mountain, US.  Patrick Fore](https://unsplash.com/photos/74TufExdP3Y "caption")
 
+>>>
++ we've **experienced** the change
++ now we can **proclaim** His excellencies
+
 ---
 <!-- .slide: data-background="white" -->
-# Is Jesus only my **Saviour**, or also my **Lord**?
+# Have I **experienced** God's power to change?
+# Will I **proclaim** it? 
+
+>>>
++ **old-timer** Chr: get to know **new** Chr
+  + **story** of transformation
++ still have non-Chr **friends**
+  + welcome their **questions**
++ but need to **have** the ball first
+  + before can **pass** the ball on
 
 ---
 <!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> class="empty" -->
