@@ -151,6 +151,7 @@ to the resurrection of **judgment**.
 >>>
 + **habitual** sins
   + secret **shame**
++ remember **who I am**:
 + called out of **darkness**
   + into His marvelous **light**
 
@@ -166,6 +167,13 @@ to the resurrection of **judgment**.
 But there was **no breath** in them.
 
 [Ezekiel 37:8b (ESV)](# "ref")
+
+>>>
++ **two** stages
++ out of **grave**: rescued from sin
++ have **flesh**, semblance of humanity
++ but no breath of **life**
+  + a bit like **zombie**
 
 ---
 <!-- .slide: <%= bg("unsplash-Y1BdWi52y14-israeli_soldiers.jpg") %> -->
