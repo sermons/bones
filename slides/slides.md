@@ -51,6 +51,7 @@
 3. The **Breath** of Life [(v9-10,14)](# "ref")
 
 >>>
++ 
 + Creator can do the **impossible**
 + 
 
@@ -66,6 +67,19 @@ it was full of **bones**.
 [Ezekiel 37:1-2 (ESV)](# "ref")
 [Kota Garut, Indonesia. Dikaseva](https://unsplash.com/photos/zvf7cZ0PC20 "caption")
 
+>>>
++ very **many**: as after **battle**, defeated
++ bones: **strength**, numbers
+  + totality / essence of **self**
++ "dried": no **water**, no life
+
+---
+<!-- .slide: <%= bg("unsplash-zvf7cZ0PC20-bare_trees.jpg") %> -->
+A **joyful heart** is good medicine, <br>
+But a **broken spirit** dries up the bones.
+
+[Proverbs 17:22](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
 These bones are the whole house of **Israel**. <br>
@@ -77,7 +91,6 @@ we are indeed **cut off**.’
 [Dominik Martin](https://unsplash.com/photos/YuVzPOBuuf0 "caption")
 
 >>>
-+ "dried": no **water**, no life
 + "cut off":
 
 ---
@@ -109,11 +122,14 @@ And I answered, <br>
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 <!-- unsplash-rdwkamJlpiU-mist-mtns.jpg [Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption") -->
 
-“Behold, I will cause **breath** to enter you,<br>
-and you shall **live**.
+Prophesy over these bones and say to them,<br>
+‘O dry bones, hear the word of the Lord.’
 
-[Ezekiel 37:5 (ESV) (p.1/3)](# "ref")
+[Ezekiel 37:4 (ESV) (p.1/3)](# "ref")
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+
+>>>
++ **voice** of the Lord has power
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -122,9 +138,13 @@ and will cause **flesh** to come upon you, <br>
 and cover you with **skin**,
 
 and put **breath** in you, and you shall **live**, <br>
-and you shall **know** that I am the Lord.”
+and you shall **know** that I am the LORD.”
 
 [Ezekiel 37:6 (ESV) (p.2/3)](# "ref")
+
+>>>
++ **purpose** of giving us new life:
++ to **know** He is the LORD
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -154,6 +174,9 @@ and raise you from your graves, O my people.
 [Ezekiel 37:12-13 (ESV)](# "ref")
 [Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
+>>>
++ "grave": not Sheol, but **tomb**
+
 ---
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> -->
 An hour is coming when all who are <br>
@@ -177,9 +200,9 @@ to the resurrection of **judgment**.
 >>>
 + **habitual** sins
   + secret **shame**
-+ remember **who I am**:
-+ called out of **darkness**
-  + into His marvelous **light**
++ remember God's **power**: life + death
++ **calls** us out of grave
+  + leave old life of sin behind
 
 ---
 <!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> class="outline" -->
@@ -263,7 +286,7 @@ is **worse** than the first.
 + even **worse** than before! 
 
 ---
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjh-sunbeam-valley.jpg") %> -->
 And I will put my **Spirit** within you, <br>
 and you shall **live**, <br>
 and I will place you in your own **land**.
@@ -279,11 +302,12 @@ declares the Lord.”
 + firm **assurance** God's promise
   + **Spirit** empowering us
   + **life** from death
-  + **home** / land
+  + **home** / identity: land, Adam
 + ch37b: **reconcile** Israel+Judah
   + vertical &rArr; **horizontal**
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 For God, who said, <br>
 “Let **light** shine out of darkness,”
 
