@@ -217,7 +217,13 @@ an exceedingly great **army**.
 
 >>>
 + not enough to be **rescued**
-+ **breath**: new **life**
+  + still **empty**
++ need to be **filled** w/Christ's **life**
++ ask Jesus to be **Saviour**
+  + but also **Lord**?
+  + whole life **dedicated**
+  + **follow** / disciple? 
++ Jesus gives **illustration**:
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
@@ -236,6 +242,9 @@ it finds the house **swept** and put in **order**.
 [Hirzel, Switzerland. Ricardo Gomez Angel](https://unsplash.com/photos/iTwmi4p4Q_c "caption")
 
 >>>
++ **rescued** by God
++ back to **normal**
++ **resume** pursuing my life goals
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
@@ -247,6 +256,11 @@ And the **last** state of that person <br>
 is **worse** than the first.
 
 [Luke 11:26 (ESV) (p.2/2)](# "ref")
+
+>>>
++ get **sucked** right back
+  + into old **habits**
++ even **worse** than before! 
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -263,6 +277,9 @@ declares the Lord.”
 
 >>>
 + firm **assurance** God's promise
+  + **Spirit** empowering us
+  + **life** from death
+  + **home** / land
 + ch37b: **reconcile** Israel+Judah
   + vertical &rArr; **horizontal**
 
